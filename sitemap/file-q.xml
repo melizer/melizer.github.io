@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+    <url>
+      <loc>/archive/dld/q0i-reinforced-concrete-design-manual.pdf</loc>
+      <lastmod>2016-01-17 18:36</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/archive/dld/q3z-cyber-commander-manual.pdf</loc>
+      <lastmod>2016-01-17 18:36</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/archive/dld/quanta-650-operation-manual.pdf</loc>
+      <lastmod>2016-01-17 18:36</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/archive/dld/queensborough-community-college-106364.pdf</loc>
+      <lastmod>2016-01-17 18:36</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>/archive/dld/quicksilver-commander-2000-diagram.pdf</loc>
+      <lastmod>2016-01-17 18:36</lastmod>
+      <changefreq>always</changefreq>
+      <priority>1.0</priority>
+    </url>
+  </urlset>
